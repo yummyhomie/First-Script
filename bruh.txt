@@ -1,0 +1,194 @@
+#!/usr/bin/expect
+spawn ssh root@10.3.4.253
+expect "TomorrowStiffRhythmYesterday3"
+send "TomorrowStiffRhythmYesterday3\r"
+expect "TomorrowStiffRhythmYesterday3"
+send "TomorrowStiffRhythmYesterday3\r"
+expect "TomorrowStiffRhythmYesterday3"
+send "TomorrowStiffRhythmYesterday3\r"
+interact
+spawn ssh root@10.3.4.253
+expect "TomorrowStiffRhythmYesterday3"
+send "TomorrowStiffRhythmYesterday3\r"
+expect "TomorrowStiffRhythmYesterday3"
+send "TomorrowStiffRhythmYesterday3\r"
+expect "TomorrowStiffRhythmYesterday3"
+send "TomorrowStiffRhythmYesterday3\r"
+interact
+spawn ssh root@10.3.4.253
+expect "TomorrowStiffRhythmYesterday3"
+send "TomorrowStiffRhythmYesterday3\r"
+expect "TomorrowStiffRhythmYesterday3"
+send "TomorrowStiffRhythmYesterday3\r"
+expect "TomorrowStiffRhythmYesterday3"
+send "TomorrowStiffRhythmYesterday3\r"
+interact
+spawn ssh root@10.3.4.253
+expect "TomorrowStiffRhythmYesterday3"
+send "TomorrowStiffRhythmYesterday3\r"
+expect "TomorrowStiffRhythmYesterday3"
+send "TomorrowStiffRhythmYesterday3\r"
+expect "TomorrowStiffRhythmYesterday3"
+send "TomorrowStiffRhythmYesterday3\r"
+interact
+spawn ssh root@10.3.4.253
+expect "TomorrowStiffRhythmYesterday3"
+send "TomorrowStiffRhythmYesterday3\r"
+expect "TomorrowStiffRhythmYesterday3"
+send "TomorrowStiffRhythmYesterday3\r"
+expect "TomorrowStiffRhythmYesterday3"
+send "TomorrowStiffRhythmYesterday3\r"
+interact
+spawn ssh root@10.3.4.253
+expect "TomorrowStiffRhythmYesterday3"
+send "TomorrowStiffRhythmYesterday3\r"
+expect "TomorrowStiffRhythmYesterday3"
+send "TomorrowStiffRhythmYesterday3\r"
+expect "TomorrowStiffRhythmYesterday3"
+send "TomorrowStiffRhythmYesterday3\r"
+interact
+spawn ssh root@10.3.4.253
+expect "TomorrowStiffRhythmYesterday3"
+send "TomorrowStiffRhythmYesterday3\r"
+expect "TomorrowStiffRhythmYesterday3"
+send "TomorrowStiffRhythmYesterday3\r"
+expect "TomorrowStiffRhythmYesterday3"
+send "TomorrowStiffRhythmYesterday3\r"
+interact
+spawn ssh root@10.3.4.253
+expect "TomorrowStiffRhythmYesterday3"
+send "TomorrowStiffRhythmYesterday3\r"
+expect "TomorrowStiffRhythmYesterday3"
+send "TomorrowStiffRhythmYesterday3\r"
+expect "TomorrowStiffRhythmYesterday3"
+send "TomorrowStiffRhythmYesterday3\r"
+interact
+spawn ssh root@10.3.4.253
+expect "TomorrowStiffRhythmYesterday3"
+send "TomorrowStiffRhythmYesterday3\r"
+expect "TomorrowStiffRhythmYesterday3"
+send "TomorrowStiffRhythmYesterday3\r"
+expect "TomorrowStiffRhythmYesterday3"
+send "TomorrowStiffRhythmYesterday3\r"
+interact
+spawn ssh root@10.3.4.253
+expect "TomorrowStiffRhythmYesterday3"
+send "TomorrowStiffRhythmYesterday3\r"
+expect "TomorrowStiffRhythmYesterday3"
+send "TomorrowStiffRhythmYesterday3\r"
+expect "TomorrowStiffRhythmYesterday3"
+send "TomorrowStiffRhythmYesterday3\r"
+interact
+spawn ssh root@10.3.4.253
+expect "TomorrowStiffRhythmYesterday3"
+send "TomorrowStiffRhythmYesterday3\r"
+expect "TomorrowStiffRhythmYesterday3"
+send "TomorrowStiffRhythmYesterday3\r"
+expect "TomorrowStiffRhythmYesterday3"
+send "TomorrowStiffRhythmYesterday3\r"
+interact
+spawn ssh root@10.3.4.253
+expect "TomorrowStiffRhythmYesterday3"
+send "TomorrowStiffRhythmYesterday3\r"
+expect "TomorrowStiffRhythmYesterday3"
+send "TomorrowStiffRhythmYesterday3\r"
+expect "TomorrowStiffRhythmYesterday3"
+send "TomorrowStiffRhythmYesterday3\r"
+interact
+spawn ssh root@10.3.4.253
+expect "TomorrowStiffRhythmYesterday3"
+send "TomorrowStiffRhythmYesterday3\r"
+expect "TomorrowStiffRhythmYesterday3"
+send "TomorrowStiffRhythmYesterday3\r"
+expect "TomorrowStiffRhythmYesterday3"
+send "TomorrowStiffRhythmYesterday3\r"
+interact
+spawn ssh root@10.3.4.253
+expect "TomorrowStiffRhythmYesterday3"
+send "TomorrowStiffRhythmYesterday3\r"
+expect "TomorrowStiffRhythmYesterday3"
+send "TomorrowStiffRhythmYesterday3\r"
+expect "TomorrowStiffRhythmYesterday3"
+send "TomorrowStiffRhythmYesterday3\r"
+interact
+spawn ssh root@10.3.4.253
+expect "TomorrowStiffRhythmYesterday3"
+send "TomorrowStiffRhythmYesterday3\r"
+expect "TomorrowStiffRhythmYesterday3"
+send "TomorrowStiffRhythmYesterday3\r"
+expect "TomorrowStiffRhythmYesterday3"
+send "TomorrowStiffRhythmYesterday3\r"
+interact
+spawn ssh root@10.3.4.253
+expect "TomorrowStiffRhythmYesterday3"
+send "TomorrowStiffRhythmYesterday3\r"
+expect "TomorrowStiffRhythmYesterday3"
+send "TomorrowStiffRhythmYesterday3\r"
+expect "TomorrowStiffRhythmYesterday3"
+send "TomorrowStiffRhythmYesterday3\r"
+interact
+spawn ssh root@10.3.4.253
+expect "TomorrowStiffRhythmYesterday3"
+send "TomorrowStiffRhythmYesterday3\r"
+expect "TomorrowStiffRhythmYesterday3"
+send "TomorrowStiffRhythmYesterday3\r"
+expect "TomorrowStiffRhythmYesterday3"
+send "TomorrowStiffRhythmYesterday3\r"
+interact
+spawn ssh root@10.3.4.253
+expect "TomorrowStiffRhythmYesterday3"
+send "TomorrowStiffRhythmYesterday3\r"
+expect "TomorrowStiffRhythmYesterday3"
+send "TomorrowStiffRhythmYesterday3\r"
+expect "TomorrowStiffRhythmYesterday3"
+send "TomorrowStiffRhythmYesterday3\r"
+interact
+spawn ssh root@10.3.4.253
+expect "TomorrowStiffRhythmYesterday3"
+send "TomorrowStiffRhythmYesterday3\r"
+expect "TomorrowStiffRhythmYesterday3"
+send "TomorrowStiffRhythmYesterday3\r"
+expect "TomorrowStiffRhythmYesterday3"
+send "TomorrowStiffRhythmYesterday3\r"
+interact
+spawn ssh root@10.3.4.253
+expect "TomorrowStiffRhythmYesterday3"
+send "TomorrowStiffRhythmYesterday3\r"
+expect "TomorrowStiffRhythmYesterday3"
+send "TomorrowStiffRhythmYesterday3\r"
+expect "TomorrowStiffRhythmYesterday3"
+send "TomorrowStiffRhythmYesterday3\r"
+interact
+spawn ssh root@10.3.4.253
+expect "TomorrowStiffRhythmYesterday3"
+send "TomorrowStiffRhythmYesterday3\r"
+expect "TomorrowStiffRhythmYesterday3"
+send "TomorrowStiffRhythmYesterday3\r"
+expect "TomorrowStiffRhythmYesterday3"
+send "TomorrowStiffRhythmYesterday3\r"
+interact
+spawn ssh root@10.3.4.253
+expect "TomorrowStiffRhythmYesterday3"
+send "TomorrowStiffRhythmYesterday3\r"
+expect "TomorrowStiffRhythmYesterday3"
+send "TomorrowStiffRhythmYesterday3\r"
+expect "TomorrowStiffRhythmYesterday3"
+send "TomorrowStiffRhythmYesterday3\r"
+interact
+spawn ssh root@10.3.4.253
+expect "TomorrowStiffRhythmYesterday3"
+send "TomorrowStiffRhythmYesterday3\r"
+expect "TomorrowStiffRhythmYesterday3"
+send "TomorrowStiffRhythmYesterday3\r"
+expect "TomorrowStiffRhythmYesterday3"
+send "TomorrowStiffRhythmYesterday3\r"
+interact
+spawn ssh root@10.3.4.253
+expect "TomorrowStiffRhythmYesterday3"
+send "TomorrowStiffRhythmYesterday3\r"
+expect "TomorrowStiffRhythmYesterday3"
+send "TomorrowStiffRhythmYesterday3\r"
+expect "TomorrowStiffRhythmYesterday3"
+send "TomorrowStiffRhythmYesterday3\r"
+interact
+
